@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+mcp<2.0.0
+requests
+beautifulsoup4
+psutil
+ddgs
+lxml
